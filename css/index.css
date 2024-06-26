@@ -1,0 +1,11 @@
+.content-img {
+    width: 90%;
+    border: 1px solid #eee;
+    position: relative;
+    margin: 0 auto;
+}
+
+.content-img img {
+    position: absolute;
+    transition: all .8s;
+}
